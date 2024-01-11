@@ -1,1 +1,1 @@
-# litter-index-and-philadelphia
+Using Python (Pandas and GeoJson) in Jupyter Notebook, created an analysis between litter index and Philadelphia using data from https://opendataphilly.org/. Includes analysis between Phiadelphia's crime rate and litter index, historic streets and litter index, and population and litter index to see what affects litter index the most in Philadelphia for COMM2550 Foundation of Data Science class's final project.
